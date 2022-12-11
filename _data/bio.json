@@ -6,7 +6,7 @@
     "email": "privilegemendes@gmail.com",
     "phone": "",
     "website": "https://privilegemendes.github.io",
-    "summary": "Professional with a degree in Electronic Engineering. Passionate about relationship between human and technology",
+    "summary": "I am a multipotentialite professional passionate about solving problems to improve the human experience. I have a pragmatic approach to observing and understanding the human context to determine the best possible technology to solve problems. I constantly challenge current methods with new implementations to improve competitiveness. I enjoy working in a dynamic and fast-paced environment and believe my willingness to learn, positive attitude and analytical thinking make me an asset to any team. I am known for my excellent communication across varying professional levels and stakeholders. My creativity and ability to find innovative solutions are driven by my curiosity.",
     "location": { "address": "", "postalCode": "5615KB", "city": "Eindhoven", "countryCode": "Netherlands", "region": "North Brabant" },
     "profiles": [
       { "network": "github", "username": "privilegemendes", "url": "http://github.com/privilegemendes" },
@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Python", "Java", "JavaScript/TypeScript", "Ruby" ]
+      "keywords": [ "C", "Python", "Java", "JavaScript/TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -33,8 +33,8 @@
       "institution": "University of Pretoria, Pretoria, South Africa",
       "area": "Electronic Engineering (2018)",
       "studyType": "B.Eng",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2013",
+      "endDate": "2017",
       "courses": [
        "Microprocessors, Analog Electronics, Digital Electronics, Computer Science"
       ]
@@ -42,15 +42,28 @@
   ],
   "work": [
     {
+      "company": "Artiry",
+      "position": "Co-Founder/Front-End Developer",
+      "website": "http://artiry.com",
+      "startDate": "2022-05",
+      "endDate": "Present",
+      "summary": "Artiry is an online platform that connects talented digital artists with a community of art enthusiasts. Our platform allows users to browse and discover captivating digital art from a diverse range of artists, and to purchase the art in customizable sizes to fit their space and style.",
+      "highlights": [
+      ""
+      ]
+    },
+    {
       "company": "Philips",
       "position": "System Integrator",
-      "website": "",
+      "website": "http://philips.com",
       "startDate": "2021-12",
       "endDate": "2022-12",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Responsible for engineering and testing MR (Magnetic Resonance) products (System RF Amplifiers and Gradient Amplifiers) in the MR Development Group",
       "highlights": [
-        "Design and execute tests scripts, and testing environments for Magnetic Resonance Imaging (MRI) subsystems",
-        ""
+        "Design, implement and set up adequate test environments. Continuously improved to automate specific test set-ups to become more efficient and effective",
+        "Create and maintain required documentation (DHF, DMR) for testing components and subsystems",
+        "Provided support to Field Service Engineers on technical issues and findings for the assigned components",
+        "Interacted with suppliers on product design and produce-ability,find solutions to test equipment on how to solve specific product needs"
       ]
     },
     {
@@ -61,12 +74,16 @@
       "endDate": "2021-07",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Manage production house with production faults, and train production engineers how to diagnose tests failures",
+        "Implement feasibility studies to improve current hardware systems with ultra low power components",
+        "Document development efforts for subsystems, components, including requirements, specifications, plans, reviews, test procedures, and test reports for hardware products",
+        "Design for testability, manufacturability and EMC compliance Work together with mechanical designers on PCB layout compatibility with mechanical models",
+        "Work together with principal design engineers on complex high-speed electronic designs",
+        "Co-develop electronic designs with B2B international clients"
       ]
     }
   ],
-  "freelance": [
+  "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",

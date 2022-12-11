@@ -1,57 +1,30 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/cotton/artiry-white-on-black.png
+title: "Artiry"
+date: 2022
 published: true
 labels:
-  - Lisp
+  - React
   - GitHub
-summary: "A text adventure game I developed for ICS 313."
+summary: "An artmarketplace project to discover digital artists."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/cotton/artiry-white-on-black.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+Artiry is an online platform that connects talented digital artists with a community of art enthusiasts. Our platform allows users to browse and discover captivating digital art from a diverse range of artists, and to purchase the art in customizable sizes to fit their space and style.",
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Artiry is an online platform that connects talented digital artists with art enthusiasts from all over the world. Our mission is to make it easy for everyone to discover and purchase stunning digital art, no matter where they are.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+On Artiry, you can browse through a curated selection of captivating digital art from a variety of artists. Whether you're looking for abstract designs, beautiful landscapes, or detailed illustrations, you're sure to find something that catches your eye. And because each piece is available in customizable sizes, you can choose the perfect size to fit your space.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+But Artiry is more than just a marketplace – it's a community. Our platform allows artists to showcase their work and engage with fans, while art lovers can share their favorite pieces and connect with other like-minded individuals. We believe that art has the power to bring people together, and we're excited to help create those connections.
 
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+So why not join the Artiry community today? Start exploring our collection and discover your next favorite piece of digital art.
 </pre>
 
 <hr>
